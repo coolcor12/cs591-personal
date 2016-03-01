@@ -1,0 +1,11 @@
+Q1: JSON object             5/5
+Q2: 1/1/2015 creation_dates 2/5 (need to get more pages while has_more)
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   30/30
+Q5: Users plt               10/10
+Q6: Timeseries              30/30
+Q7: Timeseries plt          10/10
+
+Total:                      97/100
+
+commit bd0098d60a8a13700260a53dae74c39d3f059e29

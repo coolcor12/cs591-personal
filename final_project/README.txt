@@ -13,3 +13,9 @@ To see the results of our project, simply rum “see_results_of_project()” in 
 The 5th cell lets you create your own “mini” version of the project, where you can define a few companies, a small amount of tweets to gather, and that’s it! Simply change the defined variable to your liking and run the cell. It will scrape the tweets, run sentiment analysis, and try and predict the stocks using that data. (Essentially, we include this so you can see all of the exact steps taken).
 
 Thank you!
+
+SCRAPER:
+
+We got the twitter scraper from github here:
+
+https://github.com/Jefferson-Henrique/GetOldTweets-python
